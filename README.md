@@ -1,4 +1,4 @@
-# Final Project Frontend Specialization: GoldenTicket 
+# Final Project Frontend Specialization: https://goldenticket.ar/
 
 GoldenTicket is an online platform specialized in selling tickets for a variety of events, with a particular focus on performances, including concerts, sports events, plays, and more. 
 The platform serves as an intermediary between event organizers and attendees, providing a straightforward and secure ticket purchasing experience.
